@@ -1,0 +1,34 @@
+{
+  "name": "VRdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucent1090/VRdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucent1090/VRdemo/issues"
+  },
+  "homepage": "https://github.com/lucent1090/VRdemo#readme",
+  "dependencies": {
+    "aframe": "^0.6.1",
+    "aframe-react": "^4.3.0",
+    "next": "^3.2.2",
+    "next-redux-wrapper": "^1.0.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-thunk": "^2.1.0"
+  }
+}
